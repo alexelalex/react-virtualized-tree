@@ -1,6 +1,6 @@
 {
   "name": "@alexelalex/react-virtualized-tree",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "react-virtualized-tree React component",
   "main": "lib/index.js",
   "module": "es/index.js",
